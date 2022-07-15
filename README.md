@@ -1,11 +1,11 @@
 # Project_Push_Swap
 
+Trier des nombres dans une pile, en utilisant un set d’instructions limité, et avec le moins d’opérations possibles.
+
 Pour faire fonctionner le programme compiler le avec la regle make du Makefile, puis ensuite utiliser l'executable créé comme ceci ./push_swap 2 3 1
 il imprime une liste de coup à effectuer pour ranger la pile 
 
 Note : le code n'est pas parfait car il donne pas le moins de coups possible même si on obtient quand même de bon résultat pour 100 et 500 nombre.
-
-Trier des nombres dans une pile, en utilisant un set d’instructions limité, et avec le moins d’opérations possibles.
 
 • Le jeu est constitué de 2 piles nommées a et b.
 
